@@ -1,7 +1,7 @@
-(defpackage :scratch
+(defpackage :pg-acl
   (:use :common-lisp))
 
-(in-package :scratch)
+(in-package :pg-acl)
 
 
 ;; PG Book - Exercise 3.2

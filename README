@@ -1,6 +1,6 @@
 This project is a collection of answers to some of the 
 exercises in Paul Graham's "ANSI Common Lisp". 
 
-Notice everything is in the "scratch" package. If loading
-at a REPL, load the main file, then run (in-package :scratch) to
+Notice everything is in the "pg-acl" package. If loading
+at a REPL, load the main file, then run (in-package :pg-acl) to
 access everything.
